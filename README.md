@@ -21,6 +21,10 @@ AI Instructor | Data Analyst | Technical Instructor
 - Scikit-learn
 - Deep Learning
 - Computer Vision
+- SQL
+- EDA
+- Feature Engineering
+- Model Evaluation
 
 ## Featured Project
 
