@@ -4,10 +4,10 @@ Data Analyst | Technical Instructor | AI & Machine Learning
 
 ## About Me
 
-- Technical Instructor at ITI
-- Session Lead at Udacity
-- Background in Data Analysis and AI
-- Passionate about teaching technology and AI concepts
+- Technical Instructor | ITI
+- Session Lead | Udacity
+- Experienced in Data Analysis, Python, and AI Fundamentals
+- Passionate about teaching technical concepts through hands-on projects
 
 ## Skills
 
@@ -18,6 +18,8 @@ Data Analyst | Technical Instructor | AI & Machine Learning
 - Power BI
 - Data Visualization
 - Git & GitHub
+- Scikit-learn
+- Deep Learning Fundamentals
 
 ## Featured Project
 
