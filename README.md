@@ -1,12 +1,12 @@
 # Hi, I'm Mariam Helaly 👋
 
-Data Analyst | Technical Instructor | AI & Machine Learning
+AI Instructor | Data Analyst | Technical Instructor
 
 ## About Me
 
 - Technical Instructor | ITI
 - Session Lead | Udacity
-- Experienced in Data Analysis, Python, and AI Fundamentals
+- Experienced in Data Analysis, Machine Learning, Python, and Technical Training
 - Passionate about teaching technical concepts through hands-on projects
 
 ## Skills
@@ -14,12 +14,13 @@ Data Analyst | Technical Instructor | AI & Machine Learning
 - Python
 - Pandas
 - NumPy
-- Machine Learning Fundamentals
+- Machine Learning 
 - Power BI
 - Data Visualization
 - Git & GitHub
 - Scikit-learn
-- Deep Learning Fundamentals
+- Deep Learning
+- Computer Vision
 
 ## Featured Project
 
