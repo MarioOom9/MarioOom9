@@ -1,60 +1,75 @@
 # Hi, I'm Mariam Helaly 👋
 
-### Data Analyst | AI/ML Engineer | Technical Instructor
+# Data Analyst | AI/ML Engineer | Technical Instructor
 
-I am a Data Analyst, AI/ML Engineer, and Technical Instructor with hands-on experience in building end-to-end data analytics and machine learning projects.
+I am a Data Analyst, AI/ML Engineer, and Technical Instructor passionate about transforming business problems into data-driven solutions and delivering practical, hands-on technical training.
 
-I currently design and deliver practical training programs covering Python, Data Analysis, Machine Learning, and real-world business applications.
-
----
-
-## 👩‍💻 Professional Experience
-
-- Technical Instructor at Tahaluf Al Emarat
-- Data Science Instructor at ITI
-- Session Lead at Udacity
-- Teaching Assistant at the Faculty of Computers and Artificial Intelligence
-- Experienced in designing technical sessions, labs, assignments, quizzes, and end-to-end projects
+Currently, I design and deliver Data Analytics and Machine Learning training programs while building end-to-end analytics and AI projects using modern data science tools and best practices.
 
 ---
 
-## 🛠️ Technical Skills
+# 👩‍💻 Professional Experience
 
-### Data Analytics
+- Technical Instructor — Tahaluf Al Emarat
+- Data Science Instructor — ITI
+- Session Lead — Udacity
+- Teaching Assistant — Faculty of Computers and Artificial Intelligence
+
+### Areas of Expertise
+
+- Data Analytics
+- Machine Learning
+- Artificial Intelligence
+- Technical Training
+- Business Case Studies
+- End-to-End Projects
+- Learning Path Design
+- Technical Mentoring
+
+---
+
+# 🛠 Technical Skills
+
+## Programming
 
 - Python
+- SQL
+
+## Data Analytics
+
 - Pandas
 - NumPy
-- SQL
-- Microsoft Excel
+- Excel
 - Power BI
 - Tableau
+- Data Cleaning
 - Exploratory Data Analysis
-- Descriptive Statistics
 - Data Visualization
+- Descriptive Statistics
 - Data Storytelling
 
-### Machine Learning
+## Machine Learning
 
-- Scikit-learn
-- Feature Engineering
-- Classification
+- Scikit-Learn
 - Regression
+- Classification
+- Decision Trees
+- Random Forest
+- Gradient Boosting
 - Clustering
+- Feature Engineering
 - Model Evaluation
-- Cross-Validation
+- Cross Validation
 - Hyperparameter Tuning
 - Machine Learning Pipelines
 - Ensemble Learning
 
-### Artificial Intelligence
+## Artificial Intelligence
 
 - Deep Learning
 - Computer Vision
-- Image Animation
-- First Order Motion Models
 
-### Tools
+## Tools
 
 - Git
 - GitHub
@@ -64,47 +79,126 @@ I currently design and deliver practical training programs covering Python, Data
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 📊 Sales Performance Analysis
+## 🎓 Data Analytics & Machine Learning Training Portfolio
+🚧 In Progress
 
-Retail sales analysis using Python, Pandas, exploratory data analysis, data visualization, and business insights.
+A complete technical training portfolio including:
 
-[View Project](https://github.com/MarioOom9/sales-performance-analysis)
-
-### 📉 Customer Churn Prediction
-
-End-to-end customer churn analysis and classification project using Python, EDA, feature preprocessing, and Logistic Regression.
-
-[View Project](https://github.com/MarioOom9/customer-churn-prediction)
-
-### 🎥 First Order Motion Model Demo
-
-Computer Vision project demonstrating image animation using the First Order Motion Model.
-
-[View Project](https://github.com/MarioOom9/first-order-motion-model-demo)
+- Course Roadmaps
+- Technical Presentations
+- Practical Labs
+- Assignments
+- Weekly Quizzes
+- End-to-End Projects
+- Capstone Projects
 
 ---
 
-## 👩‍🏫 Training & Instruction
+## 📊 Sales Performance Analysis
 
-I design and deliver practical technical content in:
+Python • Pandas • Power BI • Business Insights
+
+---
+
+## 📉 Customer Churn Prediction
+
+EDA • Machine Learning • Feature Engineering • Model Evaluation
+
+---
+
+## 👥 HR Analytics Dashboard
+🚧 In Progress
+
+Excel • SQL • Power BI • Data Storytelling
+
+---
+
+## 🗄 SQL Business Case Studies
+🚧 In Progress
+
+Advanced SQL • Window Functions • CTEs • Business Analytics
+
+---
+
+## 🌲 Random Forest Classification
+🚧 In Progress
+
+Classification • Hyperparameter Tuning • Feature Importance
+
+---
+
+## 🚀 Gradient Boosting Business Case
+🚧 In Progress
+
+Gradient Boosting • XGBoost • Model Comparison
+
+---
+
+## ⚙ End-to-End Machine Learning Pipeline
+🚧 In Progress
+
+Preprocessing • Pipelines • Cross Validation • Model Deployment Preparation
+
+---
+
+## 📈 Power BI Executive Dashboard
+🚧 In Progress
+
+Interactive Dashboard • KPIs • Business Performance
+
+---
+
+## 📊 Tableau Business Dashboard
+🚧 In Progress
+
+Interactive Visual Analytics
+
+---
+
+## 🎥 First Order Motion Model
+
+Computer Vision • Deep Learning
+
+---
+
+# 👩‍🏫 Technical Training
+
+I design and deliver practical training in:
 
 - Python Programming
-- Data Analysis
 - SQL
+- Data Analytics
 - Machine Learning
+- Artificial Intelligence
+- Power BI
 - Model Evaluation
 - Ensemble Learning
 - Hyperparameter Tuning
-- Cross-Validation
-- End-to-End Machine Learning Pipelines
+- Machine Learning Pipelines
 
-My training materials include practical labs, assignments, quizzes, business use cases, and final projects.
+Training materials include:
+
+- Slides
+- Labs
+- Assignments
+- Quizzes
+- Business Case Studies
+- Capstone Projects
 
 ---
 
-## 📫 Contact
+# 🎯 Current Focus
 
-- LinkedIn: [Mariam Helaly](https://www.linkedin.com/in/mariamhelaly9)
-- GitHub: [MarioOom9](https://github.com/MarioOom9)
+Building production-style Data Analytics and Machine Learning projects while continuously expanding my technical training portfolio.
+
+---
+
+# 📫 Connect with Me
+
+GitHub:
+https://github.com/MarioOom9
+
+LinkedIn:
+https://www.linkedin.com/in/mariamhelaly9
